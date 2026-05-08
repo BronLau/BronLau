@@ -1,3 +1,2 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BronLau&show_icons=true&theme=onedark&v=2)
-
+![My GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/BronLau?cardType=level&preferLogin=false)
 
